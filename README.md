@@ -37,5 +37,3 @@ Understand trend, seasonal, and cyclical behavior of time series data. Use time 
 ### Part 7: [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.
 Then complete a capstone project combining techniques learned throughout the program.
-
-- Project: [Predictive Analytics Capstone](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/7-Segmentation-and-Clustering/7.1-Combining-Predictive-Techniques.ipynb)
